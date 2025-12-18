@@ -1,4 +1,4 @@
-This is a full-stack e-commerce web application developed using Spring Boot and modern web technologies. The project demonstrates real-world features such as authentication, role-based access, online payments, order management, and admin controls.
+This is a full-stack e-commerce web application developed using Spring Boot and thymeleaf. The project demonstrates real-world features such as authentication, role-based access, online payments, order management, and admin controls.
 
 Tech Stack -
 Backend: Spring Boot, Spring MVC, Spring Security, Dependency Injection
